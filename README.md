@@ -13,6 +13,9 @@ gpg --decrypt --batch --passphrase asdf --output decrypted.pdf o2-1111_enc.enc
 
 ## Other sources:
 https://www.nas.nasa.gov/hecc/support/kb/using-gpg-to-encrypt-your-data_242.html
+https://nordpass.com/blog/xchacha20-encryption-vs-aes-256/
+https://github.com/FiloSottile/age
+
 
 
 
